@@ -11,6 +11,8 @@ It's a handy little thing for generating lines of dialogue to use in games, poss
 
 If you also have [sox](http://sox.sourceforge.net/) installed, it will also convert the audio file (by default `aiff` format) into an mp3, and delete the original.
 
+You can install sox using [homebrew](https://brew.sh/), with the command `brew install sox` (i think)
+
 # How to use
 
 Put the script into an `Editor/` folder in your `Assets/` folder, then go to `Util > Speech Gen` to open up the tool.
